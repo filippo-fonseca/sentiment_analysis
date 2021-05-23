@@ -1,6 +1,8 @@
 body {
   padding: 50px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
 }
 
 #title {
@@ -15,6 +17,10 @@ body {
 
 #reviewForm #review {
   width: 23em;
+  resize: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: transparent;
   border-radius: 3em;
   padding: 1em;
 }
